@@ -1,0 +1,6 @@
+{
+  "rules": {
+    ".read": "true",//"now < 1678057200000",  // 2023-3-6 - desde el proyecto
+    ".write": "true",//"now < 1678057200000",  // 2023-3-6
+  }
+}

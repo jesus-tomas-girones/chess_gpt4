@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749797511925",
+    "firebase_url": "https://chess-gpt4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chess-gpt4",
+    "storage_bucket": "chess-gpt4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749797511925:android:6f333aaf7c512cd23d2bbc",
+        "android_client_info": {
+          "package_name": "com.example.ajedrez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749797511925-b1nsb0i55nvn05fhku6eu0g6pj0ire88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxV8i2LpUpnxu4-4tVcpssxio5eR_wA7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749797511925-b1nsb0i55nvn05fhku6eu0g6pj0ire88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749797511925-6jsugr6ch5eu1fd8q2h74fan4vd5p7rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ajedrez"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
