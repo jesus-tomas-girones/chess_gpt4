@@ -11,6 +11,10 @@ Puede ser en un mismo ordenador o en dos ordenadores diferentes.
 En un orederador, crea una partida y en el otro, unete a la partida.
 El primero en hacer un novimiento jugará con blancas.
 
+![Captura de pantalla 1](captura1.PNG)
+
+![Captura de pantalla 2](captura2.PNG)
+
 ## Características implementadas
 
 - [x] sala de jugadores, para crear y unirse a partidas.
